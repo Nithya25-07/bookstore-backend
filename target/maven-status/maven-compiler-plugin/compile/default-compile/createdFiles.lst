@@ -1,0 +1,6 @@
+com\bookstore\App.class
+com\bookstore\entity\Book.class
+com\bookstore\controller\HomeController.class
+com\bookstore\config\WebConfig.class
+com\bookstore\config\WebConfig$1.class
+com\bookstore\repository\BookRepository.class
