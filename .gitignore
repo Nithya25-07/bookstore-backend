@@ -1,0 +1,15 @@
+# Ignore target (Maven build)
+target/
+backend/target/
+
+# Ignore node_modules (React)
+frontend/node_modules/
+
+# Ignore build folders
+frontend/build/
+
+# Ignore IDE files
+*.iml
+*.class
+.DS_Store
+.idea/
